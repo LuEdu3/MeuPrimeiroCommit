@@ -2,7 +2,7 @@
 **Atividade 01**
 
 
-**git config** --global user.name "Luiz Eduardo"            | Cria um historico das modificaões feitas em um projeto
+**git config** --global user.name "seu nome"            | Cria um historico das modificaões feitas em um projeto
 
 **git config** --global user.email "seu_email@example.com"  |  Cria um historico das modificaões feitas em um projeto
 
