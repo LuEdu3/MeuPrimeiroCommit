@@ -31,9 +31,18 @@
 
 # ` Em formatação de texto  ` 
  ** para negrito no inicio e no final
+
  `` aspas invertida para criar um bloco
 
-    para colocar emojis usar o site 
-    (https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+   para colocar emojis usar o site 
+
+   (https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
  ![motoqueiro fantasma](https://upload.wikimedia.org/wikipedia/pt/0/0e/Motoqueiro_Fantasma_por_Mark_Texeira.jpg) 
+
+
+ ### Lista de tarefas
+
+ [] Fzer um bloco
+ [] testar o bloco
+ 
