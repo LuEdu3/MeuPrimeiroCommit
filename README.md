@@ -43,6 +43,7 @@
 
  ### Lista de tarefas
 
- [] Fzer um bloco
- [] testar o bloco
+ - [ ] Fzer um bloco
+
+ - [x] testar o bloco
  
