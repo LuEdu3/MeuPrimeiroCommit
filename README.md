@@ -19,9 +19,11 @@
 
 **git add .** - salva as alterações 
 
-**git commit** -m "texto" - faz um comentario 
+**git commit -m** "texto" - faz um comentario 
 
 
 **git push** - manda as atualizacoes para a nuvem
 
 **git reset** - codigo unico do commit  
+ 
+ **para remover o login** - cmdkey /delete:LegacyGeneric:target=git:https://github.com

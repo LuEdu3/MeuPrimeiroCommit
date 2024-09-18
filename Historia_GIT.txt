@@ -1,0 +1,8 @@
+Como ele surgiu?:
+
+Inicialmente, as pessoas desenvolvedoras que trabalhavam no kernel (núcleo) do Linux usavam o sistema do BitKeeper. Porém, os criadores removeram o acesso gratuito após uma polêmica sobre direitos autorais. Insatisfeito, Torvalds decidiu criar um sistema semelhante com código aberto, dando origem assim ao Git.
+
+Qual seu propósito?:
+
+O Git foi projetado para tratar os branches e tags como cidadãos de primeira classe (ao contrário do SVN) e operações que afetam branches e tags (como mesclagem ou reversão) também são armazenadas como parte do histórico de alterações. Nem todos os sistemas de controle de versão apresentam esse nível de rastreamento.
+
