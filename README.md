@@ -47,3 +47,12 @@
 
  - [x] testar o bloco
  
+ ## ATIVIDADE 04
+ Quais são os comandos básicos relacionados ao GIT que ultilizamos em sala de aula?
+ Essas perguntas e respostas deverão estar gravados no repositório :**MeuPrimeiroCommit**
+
+1. Para inicializar o GIT em um novo repositório : **git init**
+2. Para adicionar as alterações realizados no repositório: **git add .**
+3. Para gravar as alterações: **git commit -m**
+4. Para enviar as alterações para a nuvem/repositorório online: **git push**
+5. Se o reposi´tório em que meu computador estiver satualizado, como faço pra atualizá-lo? **git pull** Lembrando que estarei atualizando com base no repositório salvo no GitHub.
